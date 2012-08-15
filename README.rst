@@ -23,6 +23,9 @@ several advantages over prior art (or at least urllib2 and twisted.web.client):
 Changelog
 ---------
 
+Version 0.3.9
+  * Fix error handling and timeout value
+
 Version 0.3.8
   * Fix connection timeouts.
 
